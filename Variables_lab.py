@@ -8,3 +8,4 @@ time = 6
 power = work / time
 print("power:", power)
 print(type(power))
+#its tuesday!!!

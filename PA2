@@ -1,0 +1,46 @@
+import math
+
+radius = 5
+area = math.pi * radius ** 2
+diameter = radius * 2
+
+print(type(radius))
+print(type(area))
+print(type(diameter))
+
+temperature = 90
+is_raining = False
+
+pleasant_weather = (
+    temperature >= 65
+    and temperature <= 80
+    and not is_raining
+)
+
+print(pleasant_weather)
+
+mass = 10
+velocity = 0
+
+kinetic_energy = 0.5 * mass * velocity ** 2
+print(kinetic_energy)
+
+import math
+x=5
+y=math.pi*x**2
+z=2*math.pi*x
+print(y)
+print(z)
+
+import math 
+
+radius = 5 
+
+area = math.pi * radius ** 2 
+circumference = 2 * math.pi * radius 
+
+print(area) 
+print(circumference)
+
+
+
